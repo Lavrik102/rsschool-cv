@@ -1,5 +1,5 @@
 # **Lavyshik Aliaksandr** <h1>
-* ![Photo](lavrik102.jpg)
+![Photo](lavrik102.jpg)
 ## **Contact information:** <h2>
 * Mobile phone +375-33-638-93-28
 * [Telegram](https://t.me/Lavrik102)
@@ -38,3 +38,6 @@ const func = (num) => {
 * English courses (upper-inremediate level)
 * English courses (supporting advanced level)
 * Interpol Global Capabilities Programme
+## **Languagies:** <h2>
+* *English (B2)*
+* *Russian (native speaker)*
